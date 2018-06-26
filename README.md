@@ -1,0 +1,1 @@
+This app will allow users to compare the pricing of gyms in their local area.
